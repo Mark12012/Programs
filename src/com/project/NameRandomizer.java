@@ -13,7 +13,6 @@ public class NameRandomizer {
     void startFiles()
     {
         File names;
-        File elo;
     }
 
     void endFiles()
